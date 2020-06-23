@@ -1,16 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package terminal;
 
 import java.util.Vector;
 
-/**
- *
- * @author lenovo
- */
+
 public class Parser {
     String[] args; // Will be filled by arguments extracted by parse method  
     String  cmd; // Will be filled by the command extracted by parse method 
