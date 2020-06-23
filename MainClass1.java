@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package terminal;
 
 import java.io.File;
@@ -19,10 +15,6 @@ import java.util.regex.Pattern;
 import static terminal.Terminal.currentFile;
 import static terminal.Terminal.defaultDirectory;
 
-/**
- *
- * @author lenovo
- */
 public class MainClass1 {
      //public static File defaultDirectory , currentFile ;
     
